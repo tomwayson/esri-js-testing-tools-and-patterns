@@ -19,7 +19,12 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 **Tutorial on GitHub**: https://github.com/dbouwman/jsapi-jasmine - Using grunt-contrib-jasmine to test javascript that uses/relies on the Esri JS API.
 
 
-## Speakers
+##Patterns
+
+###Books
+[Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do) by Mark Ethan Trostler
+
+##Speakers
 - [Dave Bouwman](https://github.com/dbouwman) - [@dbouwman](https://twitter.com/dbouwman) - [http://www.davebouwman.com/](http://www.davebouwman.com/)
 - [David Spriggs](https://github.com/davidspriggs) - [@davidspriggs](https://twitter.com/davidspriggs) - [http://latitudeagile.com/](http://latitudeagile.com/)
 - [Tom Wayson](https://github.com/tomwayson) - [@tomwayson](https://twitter.com/tomwayson) - [http://tomwayson.com](http://tomwayson.com)
