@@ -11,9 +11,11 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 
 **Sites**: 
 - [The Intern](http://theintern.io/)
+- [The Intern Wiki](https://github.com/theintern/intern/wiki)
 
 **Blog posts**: 
 - [Dojo Automated Testing Improvements: Updating to Intern](http://www.sitepen.com/blog/2014/02/18/dojo-automated-testing-improvements-updating-to-intern/) (good setup example)
+- [Dojo FAQ: How do I set up continuous integration testing with my Dojo app?](http://www.sitepen.com/blog/2014/02/12/dojo-faq-how-do-i-setup-continuous-integration-testing-with-my-dojo-app/)
 
 ###Karma
 **Tutorials on GitHub**: 
