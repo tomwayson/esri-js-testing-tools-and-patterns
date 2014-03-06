@@ -12,6 +12,9 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 **Sites**: 
 - [The Intern](http://theintern.io/)
 
+**Blog posts**: 
+- [Dojo Automated Testing Improvements: Updating to Intern](http://www.sitepen.com/blog/2014/02/18/dojo-automated-testing-improvements-updating-to-intern/) (good setup example)
+
 ###Karma
 **Tutorials on GitHub**: 
 - https://github.com/tomwayson/esri-karma-tutorial - Using the Karma test runner to automatically run Jasmine BDD-style unit tests on your ArcGIS API for JavaScript code.
