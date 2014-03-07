@@ -12,6 +12,7 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 **Sites**: 
 - [The Intern](http://theintern.io/)
 - [The Intern Wiki](https://github.com/theintern/intern/wiki)
+- [Examples of use with diffrent libraries](https://github.com/theintern/intern-examples)
 
 **Blog posts**: 
 - [Dojo Automated Testing Improvements: Updating to Intern](http://www.sitepen.com/blog/2014/02/18/dojo-automated-testing-improvements-updating-to-intern/) (good setup example)
