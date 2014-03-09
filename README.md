@@ -36,6 +36,7 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 **Blog posts**: 
 - [Automated Headless Unit Tests with Esri JS API](http://blog.davebouwman.com/2013/07/26/automated-headless-unit-tests-with-esri-js-api/)
 
+
 **Sites**: 
 - [grunt-contrib-jasmine](https://github.com/gruntjs/grunt-contrib-jasmine)
 - [Jasmine](http://jasmine.github.io/)
@@ -44,8 +45,9 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 
 ###Books
 - [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do) by Mark Ethan Trostler
+- [Jasmine Javascript Testing](http://www.packtpub.com/javascript-unit-testing/book) by Paulo Regonha - excellent book because it uses a non-trivial example application, really focuses on refactoring the code, and finally shows how to implement the app using BackboneJS, and how to write tests for Backbone models and views.
 
 ##Speakers
-- [Dave Bouwman](https://github.com/dbouwman) - [@dbouwman](https://twitter.com/dbouwman) - [http://www.davebouwman.com/](http://www.davebouwman.com/)
+- [Dave Bouwman](https://github.com/dbouwman) - [@dbouwman](https://twitter.com/dbouwman) - [http://blog.davebouwman.com/](http://www.davebouwman.com/)
 - [David Spriggs](https://github.com/davidspriggs) - [@davidspriggs](https://twitter.com/davidspriggs) - [http://latitudeagile.com/](http://latitudeagile.com/)
 - [Tom Wayson](https://github.com/tomwayson) - [@tomwayson](https://twitter.com/tomwayson) - [http://tomwayson.com](http://tomwayson.com)
