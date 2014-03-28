@@ -7,10 +7,11 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 
 ###The Intern
 
-[Intro to Intern Webcast March 20, 2014](http://www.sitepen.com/site/intern)
-
 **Tutorials on GitHub**: 
 - https://github.com/DavidSpriggs/intern-tutorial-esri-jsapi - Using intern to unit/functional test your esri JavaScript API apps.
+
+**Videos**
+- [Recording of Sitepen's Intro to Intern Webcast March 20, 2014](https://meetings.webex.com/collabs/files/viewRecording?encryptData=1_E9BC23CC2052E70E0539EE57D79D73EF21912860E943419F8E5FB24D5DE5AC90B2A7BEB155F8AC49E792B490B13F29CE8EBB6DE23F80D99F9DB4648D9BF12E12A12665F3BAA1542C862030C9C34EDF24_64DB221A6C18E7D664F738FF7C8341B25B7840E4) and the [associated material](https://gist.github.com/dylans/94252f74f51e9b0102ac)
 
 **Sites**: 
 - [The Intern](http://theintern.io/)
