@@ -5,7 +5,7 @@ Links to resources from the **Testing Tools and Patterns for JavaScript Mapping 
 
 ## The Presentation
 - [Video](http://video.esri.com/watch/3432/testing-tools-_and_-patterns-for-javascript-mapping-apps)
-- [Presentation (PDF)](http://proceedings.esri.com/library/userconf/devsummit14/papers/dev-058.pdf)
+- [Presentation (PDF)](https://s3.amazonaws.com/webapps.esri.com/esri-proceedings/devsummit14/papers/dev-058.pdf)
 
 ## Tools
 
