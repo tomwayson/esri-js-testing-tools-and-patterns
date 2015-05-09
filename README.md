@@ -4,11 +4,9 @@ esri-js-testing-tools-and-patterns
 Links to resources from the **Testing Tools and Patterns for JavaScript Mapping Applications** talk given by Dave Bouwman and Tom Wayson at the Esri 2015 International Developer Summit. For links from the 2014 talk, see the 2014/README.md.
 
 ## The Presentation
-Comming Soon
-<!--
-- [Video](http://video.esri.com/watch/3432/testing-tools-_and_-patterns-for-javascript-mapping-apps)
-- [Presentation (PDF)](https://s3.amazonaws.com/webapps.esri.com/esri-proceedings/devsummit14/papers/dev-058.pdf)
- -->
+- [Video](http://video.esri.com/watch/4281/javascript-mapping-applications-_dash_-testing-tools-and-patterns)
+- [Presentation (PDF)](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_106.pdf)
+
 ## Tools
 
 ###Karma
